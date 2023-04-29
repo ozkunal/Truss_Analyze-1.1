@@ -81,4 +81,6 @@ After these five step the code will generate and create a graph of the system.Cl
                   - Having inclined supports
                   - Having thermal expansion condition
                   - Having fabrication errors on the members
-                  -Having  variable modulus of elasticity or cross sectional area members              
+                  -Having  variable modulus of elasticity or cross sectional area members   
+  
+  #civil enginnering #truss analyze #stiffness method 
